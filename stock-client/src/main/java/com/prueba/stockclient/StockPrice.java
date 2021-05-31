@@ -8,7 +8,7 @@ import java.time.LocalDateTime;
     @Data
     @AllArgsConstructor
     @NoArgsConstructor
-    // Clase stockPrecios StockPrice
+    // Clase  StockPrice
     public class StockPrice {
         private String symbol;
         private Double price;
