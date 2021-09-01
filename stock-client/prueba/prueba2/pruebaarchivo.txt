@@ -1,4 +1,6 @@
-
+empiezo
+ 
+ 
  
  sigo trabajando
 
@@ -7,3 +9,7 @@ en casa
 
 
 otro tema
+
+
+
+programando 
