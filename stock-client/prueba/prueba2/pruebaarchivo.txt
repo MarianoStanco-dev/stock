@@ -1,3 +1,11 @@
  mariano nuevo onono
+<<<<<<< HEAD
 estoy trabajando
 
+=======
+ 
+ sigo trabajando
+
+
+en casa
+>>>>>>> 38d62352824cc83493a17944e99eb18718844f40
