@@ -1,9 +1,6 @@
-codigo de prueba
-
-sigo el codigo
-
-
-mra mi odigo de
-
-****************************************
-otro codigo
+<?php 
+  if (Sprueba == true)
+      echo ("hola mariano");
+  else 
+     echo ("chau mariano");
+?>
