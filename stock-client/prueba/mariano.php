@@ -1,5 +1,6 @@
-codigo de prueba
-
-sigo el codigo
-
-otro codigo
+<?php 
+  if (Sprueba == true)
+      echo ("hola mariano");
+  else 
+     echo ("chau mariano");
+?>
